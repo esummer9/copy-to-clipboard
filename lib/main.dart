@@ -128,7 +128,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   const SizedBox(height: 8.0),
                   ElevatedButton(
                     onPressed: _pasteFromClipboard, // This button now pastes from actual clipboard to left list
-                    child: const Text('Paste from Clipboard'),
+                    child: const Text('Paste from buffer'),
                   ),
                   const SizedBox(height: 8.0),
                   Expanded(
