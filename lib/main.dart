@@ -123,7 +123,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 children: <Widget>[
                   ElevatedButton(
                     onPressed: _copyToInitialClipboardContent,
-                    child: const Text('Clipboard to Buffer'),
+                    child: const Text('Clipboard to buffer'),
                   ),
                   const SizedBox(height: 8.0),
                   ElevatedButton(
