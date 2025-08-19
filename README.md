@@ -1,4 +1,4 @@
-# copy2clipboard
+# Copy 2 Clipboard
 
  > 여러줄로 이루어진 문장을 한줄씩 클립보드(Clipboard)에 복사하는 기능으로 약간의 편의성과 함게 `Cmd + C` 키보드 타이핑을 최소화 함으로써 개발자의 피로도를 현저히 낮춰 주는 Flutter Application!
  
